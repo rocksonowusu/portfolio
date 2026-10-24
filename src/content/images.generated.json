@@ -1,0 +1,2849 @@
+{
+  "projects": {
+    "htu-timetabling-suite": [
+      {
+        "name": "admin-page1-dashboard",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page1-dashboard",
+        "width": 1917,
+        "height": 926,
+        "aspect": 2.0702,
+        "widths": [
+          640,
+          1280,
+          1917
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAgAA4BaJQBOj+ADA1ja0AAA4n+KT2R7o5Cn3eXvVDie1yELWOxbFJUs5pnRJ7TuOm/BGhuD0AAA"
+      },
+      {
+        "name": "admin-page2-academic-data",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page2-academic-data",
+        "width": 1918,
+        "height": 925,
+        "aspect": 2.0735,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAgAA4BaJYwCdH8AGBrNsAAA/m03xC3yblaHHc30RW/fYzJK66qPlNkAAA=="
+      },
+      {
+        "name": "admin-page3-faculties",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page3-faculties",
+        "width": 1918,
+        "height": 931,
+        "aspect": 2.0602,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAQAgCdASoQAAgAA4BaJYwCdH8AGZ/l/vgAAP5tN7UPtDF4KwCMIqZF/kQPrxDK5bJUAAAA"
+      },
+      {
+        "name": "admin-page4-assignments",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page4-assignments",
+        "width": 1918,
+        "height": 930,
+        "aspect": 2.0624,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAgAA4BaJYwCdH8AGBrJ2IAA/gvtK5Hk3ou+rIeLjWscLU+SCfEV3n0/lW8AAAA="
+      },
+      {
+        "name": "admin-page5-venues-edit",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page5-venues-edit",
+        "width": 1918,
+        "height": 928,
+        "aspect": 2.0668,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAgAA4BaJZQCdAD0h7/1gAD+igUjInoWZEJBij0Cf1XhF9k0O9vAFIAAAA=="
+      },
+      {
+        "name": "admin-page5-venues-list",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page5-venues-list",
+        "width": 1918,
+        "height": 922,
+        "aspect": 2.0803,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAAAQAgCdASoQAAgAA4BaJYwCdH8AGZ/l/vgAAP5tOjsAfwoiE7Wf/Bm4AJFnkF5XEAA="
+      },
+      {
+        "name": "admin-page6-approvals-page",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page6-approvals-page",
+        "width": 1918,
+        "height": 925,
+        "aspect": 2.0735,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAgAA4BaJYwCdAEPAbDzTgAA/QPVsv7EKTm9arTIIQXEibZ97qsDkxHT1wAA"
+      },
+      {
+        "name": "admin-page7-academic-request-page",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page7-academic-request-page",
+        "width": 1917,
+        "height": 926,
+        "aspect": 2.0702,
+        "widths": [
+          640,
+          1280,
+          1917
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAgAA4BaJYwCdAEO/ae0AAD9A9Wy/sQpOfIifE81wRldGhZmgOKpwAA="
+      },
+      {
+        "name": "admin-page8-user-management",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page8-user-management",
+        "width": 1918,
+        "height": 927,
+        "aspect": 2.069,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAgAA4BaJYwCdAEO/e7vAAD+C/Hwf52QtJzlQ39dGNRPvdVdtwaHnQAAAA=="
+      },
+      {
+        "name": "admin-page9-audit-trail-page",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/admin-page9-audit-trail-page",
+        "width": 1918,
+        "height": 927,
+        "aspect": 2.069,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoQAAgAA4BaJYwCdH8AGBrF0AAA/gvx8H+dkAmum/xrDzAECApRAySwAAA="
+      },
+      {
+        "name": "timetable-resolver1",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-resolver1",
+        "width": 1900,
+        "height": 925,
+        "aspect": 2.0541,
+        "widths": [
+          640,
+          1280,
+          1900
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAgAA4BaJZwCw7DcDTDgANskbZSuZHgH5vOXMggBZEjmMh3AAAAA"
+      },
+      {
+        "name": "timetable-resolver2",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-resolver2",
+        "width": 1918,
+        "height": 927,
+        "aspect": 2.069,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAgAA4BaJZwCw7D5gryxAADbJG2UqjJig0eLK43Qv+lfumYeIAAA"
+      },
+      {
+        "name": "timetable-view1",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-view1",
+        "width": 1918,
+        "height": 927,
+        "aspect": 2.069,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAgAA4BaJZwAAugwT0dAAP7z5XZ5r7y/do1Uc334QXzJDAAAAA=="
+      },
+      {
+        "name": "timetable-view2",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-view2",
+        "width": 1918,
+        "height": 927,
+        "aspect": 2.069,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAAgAA4BaJZwAAugbhAAA/vOsTVp8IOS8f0w2mIsfwseaERgKi5AA"
+      },
+      {
+        "name": "timetable-walkthrough-step-1",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-walkthrough-step-1",
+        "width": 1916,
+        "height": 930,
+        "aspect": 2.0602,
+        "widths": [
+          640,
+          1280,
+          1916
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoQAAgAA4BaJQBOgCHftPaAAPl9iUe+ZDe209z/Wzt7GKRJaFHG3CIse/aq3OsWRJlAAA=="
+      },
+      {
+        "name": "timetable-walkthrough-step-2",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-walkthrough-step-2",
+        "width": 1677,
+        "height": 927,
+        "aspect": 1.8091,
+        "widths": [
+          640,
+          1280,
+          1677
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAAAwAQCdASoQAAkAA4BaJaQAA3AA/vGIH/wXiS0sbX4J0AAA"
+      },
+      {
+        "name": "timetable-walkthrough-step-3",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-walkthrough-step-3",
+        "width": 1680,
+        "height": 926,
+        "aspect": 1.8143,
+        "widths": [
+          640,
+          1280,
+          1680
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAAAwAQCdASoQAAkAA4BaJaQAA3AA/vGIH/wXbu+lCBMYAAAA"
+      },
+      {
+        "name": "timetable-walkthrough-step-4",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-walkthrough-step-4",
+        "width": 1678,
+        "height": 927,
+        "aspect": 1.8101,
+        "widths": [
+          640,
+          1280,
+          1678
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAAAwAQCdASoQAAkAA4BaJZwAA3AA/vEFJ/zH63C9LcvrO9lc8IAAAA=="
+      },
+      {
+        "name": "timetable-walkthrough-step-5-generation-progress",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-walkthrough-step-5-generation-progress",
+        "width": 1918,
+        "height": 930,
+        "aspect": 2.0624,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAgAA4BaJYwCdADDf6fgAP6KBSMoCVY8+fSa+HVawAntQ7WP0LlnAAA="
+      },
+      {
+        "name": "timetable-walkthrough-step-5",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-walkthrough-step-5",
+        "width": 1677,
+        "height": 925,
+        "aspect": 1.813,
+        "widths": [
+          640,
+          1280,
+          1677
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAAAwAQCdASoQAAkAA4BaJZwAA3AA/vEHg/8brBsBZsQMtWIEAAA="
+      },
+      {
+        "name": "timetable-walkthrough-step-6",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/timetable-walkthrough-step-6",
+        "width": 1677,
+        "height": 927,
+        "aspect": 1.8091,
+        "widths": [
+          640,
+          1280,
+          1677
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAAAwAQCdASoQAAkAA4BaJaQAA3AA/vEX6fZ00K3cKd0YcAAA"
+      },
+      {
+        "name": "welcome-message",
+        "group": "admin-workspace",
+        "src": "/images/htu-timetabling-suite/welcome-message",
+        "width": 1916,
+        "height": 931,
+        "aspect": 2.058,
+        "widths": [
+          640,
+          1280,
+          1916
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAgAA4BaJQBOgCHgRc+QAAD+wirqwtsJ6sfsZiA78zY3cQlSl+SAZJcL9S6IUYDdHgAA"
+      },
+      {
+        "name": "auth-page1",
+        "group": "authentication-pages",
+        "src": "/images/htu-timetabling-suite/auth-page1",
+        "width": 1678,
+        "height": 1047,
+        "aspect": 1.6027,
+        "widths": [
+          640,
+          1280,
+          1678
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQAAoAA4BaJQBOgBut6I/WQeqgAP5sBsVynecRNPWQRe3zLPo9bhjzqjI8RLjWdDHWd5abxpWfRnEeop8TknnYChFUMMhZLaEpxs5zILAAAA=="
+      },
+      {
+        "name": "auth-page2-student-sign-up",
+        "group": "authentication-pages",
+        "src": "/images/htu-timetabling-suite/auth-page2-student-sign-up",
+        "width": 1918,
+        "height": 927,
+        "aspect": 2.069,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAgAA4BaJYwCdADdQ2V1oAD2ugfCDEeBVIVLtdHu5LIIn26x1qW6GbKhLmbCQt1exzazEOCYYCkFx9UXAAAA"
+      },
+      {
+        "name": "auth-page3-lecturer-s-sign-up",
+        "group": "authentication-pages",
+        "src": "/images/htu-timetabling-suite/auth-page3-lecturer-s-sign-up",
+        "width": 1916,
+        "height": 928,
+        "aspect": 2.0647,
+        "widths": [
+          640,
+          1280,
+          1916
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAgAA4BaJYwCdAD0INdg+AD2ugfCDzzgJso9sykxisdZvE2e6Ty516USKC9zNfX8CB8xfL2I1AIyWCFRcAAA"
+      },
+      {
+        "name": "landing-page1",
+        "group": "landing-pages",
+        "src": "/images/htu-timetabling-suite/landing-page1",
+        "width": 1918,
+        "height": 927,
+        "aspect": 2.069,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAgAA4BaJYgCw7EOv5otgADiBDYCnY+/ZfyqXU630haHWuL02720Qpq1UIiBQLuOcPcDY/b68AAA"
+      },
+      {
+        "name": "landing-page2",
+        "group": "landing-pages",
+        "src": "/images/htu-timetabling-suite/landing-page2",
+        "width": 1918,
+        "height": 932,
+        "aspect": 2.0579,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoQAAgAA4BaJZwAAp2gGcgAAP7q83kWZKvevhvBgdL+rj3i2MfFmpAWqeAQsdB6kMtgvSJAAAA="
+      },
+      {
+        "name": "landing-page3",
+        "group": "landing-pages",
+        "src": "/images/htu-timetabling-suite/landing-page3",
+        "width": 1918,
+        "height": 927,
+        "aspect": 2.069,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAgAA4BaJYwC7AELXsd0AAD+9yCbT0hrK8QutNLJ5RliiVB5dntQl4KgWmgbnMGWkAAA"
+      },
+      {
+        "name": "landing-page4",
+        "group": "landing-pages",
+        "src": "/images/htu-timetabling-suite/landing-page4",
+        "width": 1918,
+        "height": 926,
+        "aspect": 2.0713,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAQCdASoQAAgAA4BaJYgCdAEPActP/YAA/ie/KUC8MImG0TM5rl3NOjG3KLvJtLrDC2B/kAA="
+      }
+    ],
+    "htu-cafeteria": [
+      {
+        "name": "dashboard",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/dashboard",
+        "width": 1918,
+        "height": 1078,
+        "aspect": 1.7792,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACQAQCdASoQAAkAA4BaJYwAAudFw0AA/DxnRd79meemhZ30B7iR8IIn1FgnyhsAAAA="
+      },
+      {
+        "name": "edit-menu-or-add-menu",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/edit-menu-or-add-menu",
+        "width": 1918,
+        "height": 1078,
+        "aspect": 1.7792,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAwAgCdASoQAAkAA4BaJZQCw7EfZgi4aF6AAAD+0l6wiuFHsO/zjiqm3nZHvgOTB2kxIotHj0vsIWJ+amSfkZiBmemu4wAA"
+      },
+      {
+        "name": "landing-page-2",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/landing-page-2",
+        "width": 1905,
+        "height": 967,
+        "aspect": 1.97,
+        "widths": [
+          640,
+          1280,
+          1905
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoQAAgAA4BaJYgCdADiUdgbPAD+91q1jj/O2CeGlRnLYzxVvIgNe3J1RbiJeRS4x8+Jb/LtrtfU36by8UVlPumwRloiyYaRYJ1yAAAA"
+      },
+      {
+        "name": "landing-page1",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/landing-page1",
+        "width": 1911,
+        "height": 1078,
+        "aspect": 1.7727,
+        "widths": [
+          640,
+          1280,
+          1911
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAkAA4BaJZgCdAEPCDelGyQA/uwI6aUXL8+WRfA+xGcJMzkgz5804bcb8Lh0Y87UuW0Z70AdXAZut88YbDnyRVjqXSYwywu9A+DWUvigeUDcAAA="
+      },
+      {
+        "name": "landing-page3",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/landing-page3",
+        "width": 1901,
+        "height": 971,
+        "aspect": 1.9578,
+        "widths": [
+          640,
+          1280,
+          1901
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAQCdASoQAAgAA4BaJbAAAXQBykAA/vGjNrNqQS0akfpxzJR+kXtYGYj1+6f14IpK67bVzxyxf/F22hc1wQAA"
+      },
+      {
+        "name": "login-page",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/login-page",
+        "width": 1918,
+        "height": 1078,
+        "aspect": 1.7792,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoQAAkAA4BaJQBOgCHgRQWe0LwAAP40FpBHajivuDY3KVaqZtQT08if7PAkyE0CmUnloRVz0ZQrEhsCxNgAAA=="
+      },
+      {
+        "name": "menu-page",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/menu-page",
+        "width": 1902,
+        "height": 1078,
+        "aspect": 1.7644,
+        "widths": [
+          640,
+          1280,
+          1902
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoQAAkAA4BaJZQAAudFw0AA/pwG83uV4q05MWynXpzepQJ6dh0R/uGjlFAAAA=="
+      },
+      {
+        "name": "notifications",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/notifications",
+        "width": 1918,
+        "height": 1078,
+        "aspect": 1.7792,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoQAAkAA4BaJYwAAudH6xgA/upHf1ce/kTj+YdG5dGt7JuWK6X++EEh3gAAAA=="
+      },
+      {
+        "name": "orders-page",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/orders-page",
+        "width": 1918,
+        "height": 1078,
+        "aspect": 1.7792,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoQAAkAA4BaJZQAAudFrAAA/pwfKzVMYyglvvQFgU+ZEjcn9xFhJwAA"
+      },
+      {
+        "name": "payments",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/payments",
+        "width": 1918,
+        "height": 1078,
+        "aspect": 1.7792,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACQAQCdASoQAAkAA4BaJZQAAudFrAAA/pwG83uIOmj0s8K6xaeSEiEAzrK5zEfcNGpQAA=="
+      },
+      {
+        "name": "point-of-sale",
+        "group": "admin-dashboard",
+        "src": "/images/htu-cafeteria/point-of-sale",
+        "width": 1918,
+        "height": 1078,
+        "aspect": 1.7792,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQAAkAA4BaJYgCw7EO+pAzSbgA/k91F/WB7LhWskg4DTIQfF86k4je+J/FczxP3nxzIr7GxGA8+CO3MO66T2vYYob9qeAA"
+      },
+      {
+        "name": "all-orders",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/all-orders",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAwCdASoQACQAPuVip02pJaOiNVgIASAciWUAAD5jfS+AZNoGIAD+0P3WuxvuAQAxLyI5JhwKI/cCQtpDklY1CTP8y42otfMQMAPBehkaUVXjs/DTY7/OBiMVkv5vQQSS0AAA"
+      },
+      {
+        "name": "authenticate",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/authenticate",
+        "width": 561,
+        "height": 1280,
+        "aspect": 0.4383,
+        "widths": [
+          561
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoQACUAPt1apE2opSOiNUgBEBuJZwDH5Yv/JovLSHZPiRW7AAD82X8BePR9QxLwGo2az4fm8DPttMwdYrN2ACR10RUlTQlVeMayFwLjQTLA0rtex0CCxNF0THbWaY8aBffOy+G4C14u8JMLXtH1X7xeAYCSGJpVw7G9YcAdrYgAAA=="
+      },
+      {
+        "name": "cartpage",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/cartpage",
+        "width": 561,
+        "height": 1280,
+        "aspect": 0.4383,
+        "widths": [
+          561
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBQCdASoQACUAPu1qrFCppaQiqqgBMB2JagC+d13WAO4C0VD/+yndEb8ieVtqy/albnmo+sAA/VP0hJjOYOl81jXvuS1MtHBFLn03XUMrbCM7GzK9zP2/CPCP2kw0GB3uNkv8F8RGFHtGsqcObI8GNEjQWCY0ZH3zZUPWmV1FadcHNcgQns7momvhjvDxfFi3oQHbaGJxUeI13fmM67Wp870pdvB1lO07gnz7ia2swAK9+GDp8Qs1gDHhCNjK/Y2MSQAA"
+      },
+      {
+        "name": "checkout-screen",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/checkout-screen",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADQBACdASoQACQAPuVkqE2pJiQiNVgIASAciWMAxNgWm43ZgPzffcJlSkVF7usTgAD+6fhMXr2oB2PklD2OGvIiD3SYLSjd2GNDMTsaFpO74HxTHvHZDUzBEM20n0eOQ0D9vn0PiXTmPjMDeuv0cLne+rlUf50Gx1Hpmvx//lww8UxPmaqZ4fvzGaSXIsmgWz7qAjX7BQ72WAAA"
+      },
+      {
+        "name": "homepage",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/homepage",
+        "width": 561,
+        "height": 1280,
+        "aspect": 0.4383,
+        "widths": [
+          561
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAABwBQCdASoQACUAPt1Yo02opSMiNUgBEBuJbAC7BAgdltaKvryjXXpxBVYgeo6Iwz+HWguAAP7vUY6TKk4MQE459GnNGi0djpg2R/1kEQHQ0UA7U1iTDrLG7wdWspUDa8LaZJc2oHbgHcJQdbCiIONs64Qtaesm1aONzp31N4bQAj+WS/7PJXf550MSmYet4ykM8cH37sXmhq/MvvXoV4nQvzp6/CpqRN/NzB8/Q7BnD8SdkPzQMX6tzFynZE179KosQ/rKAuEWRovFZ6XyoVygsVhFyUB8VSri7gev6I5d+P/zLr/eT3Xg38d+qGAvFV8FQOYZ4MT7/Jr8PRnmCiaQOVrfCfg/7Z0oAAAA"
+      },
+      {
+        "name": "menu",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/menu",
+        "width": 561,
+        "height": 1280,
+        "aspect": 0.4383,
+        "widths": [
+          561
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAACQBQCdASoQACUAPt1apE2opSOiNUgBEBuJbACpEYA9v9HgbUZb/qqUElVaxQY4un4+/CtyQAD+72TVZdp+vsOK2dVmLp25Py05zcfdCU0P6PfyZ3g0MiXhr6WeM3+Czs8TXvj9XwqZxFNRGnAVgd84nXYir1g+CA89F/JWukbz4a3EKwr0BBfDa8OFQ8PiUOg7dxTctCebseYVd2rKWj9K11XfanMXcT9DtyExOcKIcuNM+iLs1JZIC3+oK1i10foUr3PjgdbFeCNSqEckLACC+/7EXinzWtvNKy0Q0JxS38U0lfRG1/0rYB0JxfLzbxplGmR2T+JgPwPvxtljMKAPMtxCZ4v0fRGoLlfEGkAAAA=="
+      },
+      {
+        "name": "notifations",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/notifations",
+        "width": 561,
+        "height": 1280,
+        "aspect": 0.4383,
+        "widths": [
+          561
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADQAwCdASoQACUAPu1eqE2ppSOiNVgIATAdiWUAxNgWae7t+tovzIAA99/n4K1jwQ+SH3ya3aHBmfSBZztZFdCMVHlGxdN/oNCoC1E5L/OuXljEiT6zG82XlzAzcbqBrCmM5B192BykvPuMfxvENL16Sb4mXEANQAAAAA=="
+      },
+      {
+        "name": "onboarding1",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/onboarding1",
+        "width": 561,
+        "height": 1280,
+        "aspect": 0.4383,
+        "widths": [
+          561
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAADwBACdASoQACUAPt1apE2opSOiNUgBEBuJaAC1GuioUAfvDZMEeIlTM8SAvy0Qf+gA/vFxkvMLIpmwK/1XjoumrmMrQX5S4/SftjainJBe0uNbEjMDwBeGROMrUmupP++n8RopjpBxg2bU6CwuOKgI5y2w2K//P3YO+T8dPBWTS/0TYMt1/sjuIfmc72ztHVnmHsbfx3yn8ThCRLAAAA=="
+      },
+      {
+        "name": "onboarding2",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/onboarding2",
+        "width": 561,
+        "height": 1280,
+        "aspect": 0.4383,
+        "widths": [
+          561
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABQBQCdASoQACUAPt1apE2opSOiNUgBEBuJYgDADFzjYAd2xMJvFbbgA1CRAXOwUGm1RIAA/Nl/AXjzRmVCkaURJlzNFx4BzTgPQROzjYR6oYlixZeatJQjUzH3/pjhUUZ2qkor+cBngcxlIE6lYVT54GXCSX3g22EFg4I3m7XXAjn6G6MW8tDExdFZ18KlWMHVJp+7je1/Vb9FYhPji7qsvZsfwa+a4me8nDXAAAA="
+      },
+      {
+        "name": "order-placed",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/order-placed",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACQBACdASoQACQAPu1kqk6ppaOiKqwBMB2JYwDLpEXiymxT+dkaQ4HvapkZ1HgA/pG/4H47h9FRJlMNJzftFq11pjBYYNzmwWuAQmTz1yVYzRNm/I9A09I6t7NmF0joncqnhwT8nOWDR07PHOu5ynTAKkSioRZD2THpVcZF6l16Ti+jeERdatiRb/QAAA=="
+      },
+      {
+        "name": "settings",
+        "group": "mobile-app-images",
+        "src": "/images/htu-cafeteria/settings",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACwAwCdASoQACQAPu1iq04ppaQiKqwBMB2JYwAAPWHEA5NjOuHlgAD+0P3yYN8fZUEW0gC9lymfKOP/vJXmopLA4y/gEQiyL3zGJ5cq6hvbdUdYMJ24oo/RU3+E32eQhf0aVEC+d9fT2eOiw7Yv3h6sJHGBkHalJepy6xU+RjEYnnCHueSZ+oSsyKOAK2cDr2786zAAAAA="
+      }
+    ],
+    "currentwatch": [
+      {
+        "name": "01-team-photo",
+        "group": "hardware",
+        "src": "/images/currentwatch/01-team-photo",
+        "width": 960,
+        "height": 1280,
+        "aspect": 0.75,
+        "widths": [
+          640,
+          960
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "photo",
+        "blurDataURL": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAACQAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JQBdgAmByCLN+wrBwAP7M0SwuPALAdXA0F702rklrEHpwN5HXZxX3G5uGTTz+VqyjuJs+9HmuC/WhiWTJDZlODWZgX/1hJZTZtOr0Pi8PrVHi7uBDC6Mf+1hWYfut2LXQn7R14ScQ4tFqkBtVPEAA"
+      },
+      {
+        "name": "02-inside-the-box",
+        "group": "hardware",
+        "src": "/images/currentwatch/02-inside-the-box",
+        "width": 1920,
+        "height": 2560,
+        "aspect": 0.75,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "photo",
+        "blurDataURL": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZgC/OywBzZSFq0Z1BIMUgYoAAP0zV6cIrLS5A+m02XBgTvE41Mw94/OKhCv51qEjAjId1cl4cTLWvb5t/XjWaEcDTtnYBaQzItfVZYIK4h4OuEt9BlZTTy9QAelJx/7YXWHQw2YKSSXyxgBxGZbkNlkKq/1aI8kIkUmZNbdJv4oYmAA="
+      },
+      {
+        "name": "03-inside-the-box-lid-open",
+        "group": "hardware",
+        "src": "/images/currentwatch/03-inside-the-box-lid-open",
+        "width": 1920,
+        "height": 2560,
+        "aspect": 0.75,
+        "widths": [
+          640,
+          1280,
+          1920
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "photo",
+        "blurDataURL": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JaAC7ABjogX5AFgtXx5nZwAD+pnDioSumbwjbJjojzE1yh9FVHFgzXWHHDRVCegzZljJhvcxhNOuTejlegzynDZ8337piccdbApGY6xbdT03+nNZw3abrrSpswgt6/5SNrzZ5YSosnaDiqZ+/RaJNoowk2r9XZyxm9Ea1xZCwGgAA"
+      },
+      {
+        "name": "04-test-rig-closed-a",
+        "group": "hardware",
+        "src": "/images/currentwatch/04-test-rig-closed-a",
+        "width": 960,
+        "height": 1280,
+        "aspect": 0.75,
+        "widths": [
+          640,
+          960
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "photo",
+        "blurDataURL": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JagCdAB07yQMhxmqpIH1ZnAAA/fnYn6Sla48VeGcNNmw8usZ97IWC4gL8lD3vXGOJ5/Tw/q9fLSk7Z4cT6/JrEro0Fks8Fotu4XwjsukDFYiwSpx0wtGnvfSAbu/S1Oc/N70jFzOs7553vZU8NzXZPdi/ECOLygZPzyIlz+x69JcXcAA="
+      },
+      {
+        "name": "05-test-rig-closed-b",
+        "group": "hardware",
+        "src": "/images/currentwatch/05-test-rig-closed-b",
+        "width": 960,
+        "height": 1280,
+        "aspect": 0.75,
+        "widths": [
+          640,
+          960
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "photo",
+        "blurDataURL": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAADwAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JagCdABayvQitPkJ3t8g4AP5aVmzVMo5uBVzvND6KizpT8k8TtXrR8gd/CdB70yd7enoChG4K+dNDxpmxsdpjqZLSgS8nVSVF4L7x6TlfLh+25ZPD8iSi2i8kVta8Ofn1j/L7gqebM3sRf05N1io/FOYG/Impa0KWid5VgAA="
+      },
+      {
+        "name": "06-test-rig-open-a",
+        "group": "hardware",
+        "src": "/images/currentwatch/06-test-rig-open-a",
+        "width": 960,
+        "height": 1280,
+        "aspect": 0.75,
+        "widths": [
+          640,
+          960
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "photo",
+        "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JYgCw7B7G99Hzw9emY83OAAD9UgLUw5j2Nb8ru3c8fNGRmQvQVn4rYaNoX+vnsOPrCfQhJo8YY6Abkl3X0A+ycQEpuxQUISVlWtoOc/vAqXaPVXkyKgZxP6CpXXURYr71x4PSEEQwpfP/MgAAAA=="
+      },
+      {
+        "name": "07-test-rig-open-b",
+        "group": "hardware",
+        "src": "/images/currentwatch/07-test-rig-open-b",
+        "width": 960,
+        "height": 1280,
+        "aspect": 0.75,
+        "widths": [
+          640,
+          960
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "photo",
+        "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZgCdACPuED/6fkyeIBvvkb6UAM3pBu+HBSMUGWX4ztmRaOgJo59TkWJ9LLsRy7wcHbcTHn9SiurURRpYZIztxgZDqhgOMz1cKuCx1Y37z6yzVGKUSPptQ+BaZc9/3xUDFEvcxMq9eUJbcO5oM+uPbgA="
+      },
+      {
+        "name": "08-test-rig-open-dark",
+        "group": "hardware",
+        "src": "/images/currentwatch/08-test-rig-open-dark",
+        "width": 960,
+        "height": 1280,
+        "aspect": 0.75,
+        "widths": [
+          640,
+          960
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "photo",
+        "blurDataURL": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABQBACdASoQABUAPu1iqU2ppaOiMAgBMB2JaACw7CFKiFjI9U2SY9H8keSAAP6ED5x6mMYymNDwifA9vIhcfqCXtJU3numKBKRjGXPuL5Ycd02rL6oAnjbegLA3Vka9ro+VRciIBJ5IjpIKEccoT9CWDlr7NkM8cbOjpsa01y2Hij16k4hCTa97xfLV2Lv/Mxy3tedrlI+XUmWQaFpCUbSwtZovAAAA"
+      },
+      {
+        "name": "screenshot-20250813-182249",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250813-182249",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoQACQAPu1orFCppaQiqqgBMB2JZw3AIAFKA0Owa5RbKUAA/usyrohmAE9ryoa5Ros0l58JkU2UDwNVUhPZWzep0V4bji2DK5I+Z581Lg/+nXG0IS07VMgT8Xav6+twAAA="
+      },
+      {
+        "name": "screenshot-20250825-185737",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-185737",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoQACQAPt1apU2opSOiNUgBEBuJZQAAgb2ys16b4oYEzzWUAAD+85+rwKaUFDTs5VjvkFWukg1glf5PdovyZAoXv2/K7almaqYdVa6k2mChDn6dpUAAAA=="
+      },
+      {
+        "name": "screenshot-20250825-185817",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-185817",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAwBACdASoQACQAPt1Yo02opSMiNUgBEBuJYwDKEf/gcInAaWgRDGEDvgAA/vDh4T1TNAIx81vQsgkbeajZfLCY66sQz7pl6vh+O5ZogyBoHm9ZLPOHjBQXwnwe6I1Ojgsr7SmphVesamodAOMgE0fL6qvSKuw44b6NPryFR7AAAA=="
+      },
+      {
+        "name": "screenshot-20250825-185947",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-185947",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBQCdASoQACQAPulgp02pJaOiNVgIASAdCUAIQBggHr/gKLe5VJHZzMDKOPyGddWAAP7x4Sw0r2b/T3kqpuQvQjD1LDJ9Z+URZFm6Rh7v/5EJR6NP2gzcIHCrFFcOWV82Y3LOLXxPQgg1VxfqUrUg5fYpBdLH7FkClR7qlRgAAA=="
+      },
+      {
+        "name": "screenshot-20250825-190000",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-190000",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAACQBQCdASoQACQAPu1oqU6ppiOiKqwBMB2JYgCAC8AGYZ5IAfgB/mhpDBvyEUxVFJORUdftmAD++MrVoG8HxYYSrQZPHpMixm8X8z5JnWC+B8PqvHf6BHJjTc/gRMb+XWjS47PNd5fo4G9wCpa58ym2JS5XXQN7dmb8ccCm5YUBTRlsWkIfuoOiRTbeIR6J6w/YGfixdUtDctA0bNc7pau4MlXO6W12XKAAAA=="
+      },
+      {
+        "name": "screenshot-20250825-190549",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-190549",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABwBACdASoQACQAPulep02pJSOiNVgIASAdCWQAAL8PA5x2S7lRbuxJoSr4AAD+sj/tBjHeA5xu/VUqzY1eEb1Fh+fTcfkMrfutwWQXAXPPaKQOWXqm2k4Lre5NeJ7Kx7V1fdbSQ9Enu2aDUHSi0znQcce+yzO3QZdcFS9NQFdDHhzkDZhCo7XuLXDqUMjBqLI+eOMWlEWxFK9G+//5sYW7M+x+/+ffGmZc4AAA"
+      },
+      {
+        "name": "screenshot-20250825-190746",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-190746",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoQACQAPt1apE2opSOiNUgBEBuJSYAABuAKYcVvJFzJKCAA/pG/vHxHTzTRuW+73U/2ApRsUXYXRtVphtp+Ldm2oIjYhoMYhZ+yCxlLkEDxozuDNj01adPh3USbFGVV/+3v6i29dqi1rlYiIWAAAA=="
+      },
+      {
+        "name": "screenshot-20250825-191152",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-191152",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoQACQAPu1srlCppiQiqqgBMB2JYgDLLFzdEv7C/aoLITmtAoUYAP7oUf8r7S92fWqh16y3Xv+AV6Lg/sfSE+i9e8P+7ivONCASGaOKhmkNGD9LwuUj08mDHibgHd0hPUdJ5Wg91Lp3n86uUIVG2W7rVCBvF0EC7bVp+HgK0l7Sz4zgAAA="
+      },
+      {
+        "name": "screenshot-20250825-191332",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-191332",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoQACQAPu1krU2ppaSiKqwBMB2JZADOOBZtz9ryZ70+deOgAP5b/017dl65U+6O7kO8Buxg1PpPj9ZHNFLbodd67CPX3BKaaWnlR8A0iMVGwSARhIu/srIsDQ3VuKgMThZhm/5Anjn6FiQA"
+      },
+      {
+        "name": "screenshot-20250825-191705",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-191705",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAACwAwCdASoQACQAPt1cpE2opSOiNUgBEBuJQAAPROcqeaDNafuoOAD+kb+8fEdNvy4N0ezTeVVyn/szKGiVJAUtWMDWUmKUNlCYiR01w5cOs0p+ewASuLQ7hcOwBQ9UJHbpEwtLvh0VsyKKKZX8xWj/+Uq3zM+Rzf6XSjdywAA="
+      },
+      {
+        "name": "screenshot-20250825-191731",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-191731",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwBACdASoQACQAPu1irU2ppaSiKqwBMB2JZwDLpBZrHB7SrOB+VhVWO/f46AD8j+Do3wvnE64S/zdU4P5yAJvEbOljBRHa0vypBAcEzA5oxZoIUe6dRtxf3kew6shtRhueAs36ngic491ra49kHlMs2g4+jkUKUAA="
+      },
+      {
+        "name": "screenshot-20250825-191748",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-191748",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAwCdASoQACQAPu1qrVCppaQiqqgBMB2JaQAAPVzcx6oAAP3jvZ5/uVM7eXYiJqP4PgNd+gBwU72jpQvAgAAA"
+      },
+      {
+        "name": "screenshot-20250825-191757",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-191757",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoQACQAPu1aqU2ppKOiNVgIATAdiWkAzYQWWtOK2qzLieegAP3jvZ5/uVNCK4sFpjrKgiBBr6yNj3qu4WaiEfTyde1+9Dn0AAA="
+      },
+      {
+        "name": "screenshot-20250825-191814",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-191814",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASoQACQAPu1kqk6ppaOiKqwBMB2JZ12AABuzO09PlM/qXsdAAP6Rv5gRLIPkXbSWij0xPArN05aUekn3FWi5+4DzYjvzXfG83PJBWNKg0rxIn12s+n0UahYpLhhQB0CS0W4GWRkCQozLHLMW2czkYrgAAAA="
+      },
+      {
+        "name": "screenshot-20250825-191838",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-191838",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBACdASoQACQAPu1mqE8ppaOiKqwBMB2JZQC4qBZi3CEAqW6m1DFIgAD+kb+YESyD47YedeTAuESc6p/vZSius205LRlLhsox35c0bgn1PFPnpdGs+KNLNZ9QIC/M9wiUCKERsGz03PFmFIRMfp0iPN2HPPwA"
+      },
+      {
+        "name": "screenshot-20250825-192046",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-192046",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBACdASoQACQAPuleqE2pJSQiNVgIASAdCWUAAL8UFoPoLpVsqxI2VQAA/rI/5/BmgfiekclYtf4an7wokN4Whyxi5q1cTzXqBtnjq8Ne4PltVo6nDzI4I5fzkslYshAAAA=="
+      },
+      {
+        "name": "screenshot-20250825-192053",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250825-192053",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQBACdASoQACQAPu1irE2ppaSiKqwBMB2JQBlliL23HcVEUNO9RuNR1r4AAP6yP+f0FjxNaKzC1MCfzbBmwUdeNQzpDRgaAr7uStEIJ2T8K7i6TWD1DWTfNuWo7otlOAPFgBY+4BZZMs1PmUiLUs4aFv+Zv9bXokrf6DtDElpHlYPZuXiAAA=="
+      },
+      {
+        "name": "screenshot-20250828-105457",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250828-105457",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQBACdASoQACQAPu1mqE8ppaOjKqwBMB2JZwAAPa/BGLw5jLQlfnPIgAD+79g7R7gchU/MWOr0FyH9VZ2+rIyyHpPdKSoktnjJWtXRQAA="
+      },
+      {
+        "name": "screenshot-20250828-105510",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250828-105510",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQAwCdASoQACQAPt1apE2opSOiNUgBEBuJYwDO7D7RV0S7gemwAP7w4weENWAjHzaxwm759Cd+YdSPWL7kJlSZxNm7Aqfy79kSMh/sRIKvFQxVC67G1Ruvg4AAAA=="
+      },
+      {
+        "name": "screenshot-20250828-105514",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250828-105514",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASoQACQAPu1kq04ppaQiKqwBMB2JQAhAFv/gKMDXuJVJPAg7c7rWFr4AAP7v2DtHuByFT8xY6vQXIf1UkhZizmMxFOx32x/f8G2og3PNKNIH1On5jSZwaP88mYREpZi9Fb63uXGt8TZilXswAAA="
+      },
+      {
+        "name": "screenshot-20250828-105532",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250828-105532",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwBACdASoQACQAPuVip02pJaOiNVgIASAciUAIQBggHr/gKH+62jcc0tqx/wq6GAAA/vHhLDTCUQFCnFdtqg04/kiy3WWMwC4B+tAB+F9GssBP1w6VMhoe1oaO6+Yp+ur+ffOn5xPQgg1UcvdPCi0+YMzAp6K6UavlIJyowAA="
+      },
+      {
+        "name": "screenshot-20250828-105556",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250828-105556",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAACwBACdASoQACQAPu1qrVCppaQiqqgBMB2JYgAGaATAPuXw70ja9Qq3XHATP4vIAP77tZlTzZ3RPBKEeCtnJ5WcNCKJ93iq6wv/J+S0oNrufdPivaB4ADLUjLII0nd7miaNgcUfx7fBvFILzdxNJOGCdsSdlLJ/eP+Cy2Q5F5CjKmwTLTUh5yQvdV+rCLV0BC3b244B3mnmZeV0TCrtT7ja21A0Gf39KpjmJ73UroF5//NhFE77//k7NHvgAA=="
+      },
+      {
+        "name": "screenshot-20250828-111825",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250828-111825",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADQAwCdASoQACQAPu1irU2ppaSiKqwBMB2JZzuAAAm8TXnx0ad3reAA/uDKaE0A6MecUAgy1Gta/zANaplUvQANz+mQb9YsUPl3IqaaQ3iYyUawWNGH1FPOI+o1svaYxzu2NT5+AF87jchUrxvk2u+aRkt8vDsbMAA="
+      },
+      {
+        "name": "screenshot-20250828-114350",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250828-114350",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoQACQAPu1iq04ppaQiKqwBMB2JZ0wAW70JtkywiXTwuBVYtQAA/lv/TXmkI6xCK/JhxOmSwmuzjIMJhnAIvsQ32VvgI+eO5PzBlZFF5WEv5aOGD6v+Y6OCkyym/OCfmFIRM/ScrmvAQiAA"
+      },
+      {
+        "name": "screenshot-20250831-153433",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250831-153433",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBACdASoQACQAPu1qrVCppaQiqqgBMB2JbAC3uBZoQVXP1RhHntFsxwpYjsAA/u3Q/Dy0Yue1w92vMTcsdcJbDZJss76+xxzYo+puGgIyGizwWk8yKkBf6psVej6IYBCZulwwnUJaTyFWLX6jXttmHpCQ2UL+XnhYhYsXfH51OeKtShpfN4dKycIknkzY/IXLwF2oaewAAA=="
+      },
+      {
+        "name": "screenshot-20250831-153535",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250831-153535",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoQACQAPuleqE2pJSQiNVgIASAdCWUAAML4Gd0/+AtmOx94AAD+9hpOEI3hPAR1RIFsZ7wUtavaPeAkOA5OuAvDfxE16gYbgy4eJ3vbUafmbLV5KJid5sBRCpwAAA=="
+      },
+      {
+        "name": "screenshot-20250831-154923",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250831-154923",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoQACQAPu1oqE8ppiOiKqwBMB2JZycAFJwCN/4et2H28/wikwAA/uf/ISs0UKxUAwHbUmlK84er1M1HA8EOKmhVoOcsCCNyxaZ3zPLDwJxMWjdJhEIwy3DYRvJS7MGIuAO9PNWt0DRkVh/SPNIyL6FdXp2fQwAA"
+      },
+      {
+        "name": "screenshot-20250831-161548",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250831-161548",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAgCdASoQACQAPu1qrlCppaQiqqgBMB2JaQAAWCQAAP7wlzctMgvhH0mLVCG36ShIf6LcJQOgQbcUAAA="
+      },
+      {
+        "name": "screenshot-20250906-150203",
+        "group": "main",
+        "src": "/images/currentwatch/screenshot-20250906-150203",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACQAwCdASoQACQAPulip02pJaOiNVgIASAdCWVdgABa66jhE4iAAP7ynsYR9N4zK50gOCJiIuPUdR87GR5M7azBHxGt8ToYXDHxO+EC2Z9DF+NkEjBJaLS4AAA="
+      }
+    ],
+    "estimatepro": [
+      {
+        "name": "screenshot-20250420-180942",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-180942",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABQAwCdASoQACQAPt1apU2opSOiNUgBEBuJQBg5gXi4AEQTwADxI1KCbNjJU8Xwt/w59sfvZFqLVJer1g8DlNNm5UtaKAAA"
+      },
+      {
+        "name": "screenshot-20250420-181111",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-181111",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACwBACdASoQACQAPulep02pJSOiNVgIASAdCWIAI8ACRP/WuXXf7UE+uFjHkBwAAP79zFB03kQUiPnxvm0Pxt5NPK6f479dakG+bGn85d8UiqugAymccrmTB755lNzscG4roEusGuDxvh2KH3VShLVx03IeLm9zT1MjoU1UjoWbQAAA"
+      },
+      {
+        "name": "screenshot-20250420-181120",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-181120",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBACdASoQACQAPuViqE2pJaQiNVgIASAciUAZGojb5jVxMA9qFHjM4mGTAAD+9OepzavtkmYXBkFknCnQ68F+4r10htg+Xa8jUWfCUzzz7p+65K3Qp8ioj6nUGek9oNicAVXfa49e1sjl5fH7zFqVn5ecTPhMWy/Bpr01i3G0eaTPfIAAAA=="
+      },
+      {
+        "name": "screenshot-20250420-181132",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-181132",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQBACdASoQACQAPu1mqE6ppaOiKqwBMB2JYgDORiAAkXFCmNPvBSVcnf7p7CyYAAD+/UCKbu5dmETDNej+vSRu81st0JfoYUZC8bCq1lqAAq6QQZFoEO2tQOZx9bGO0AKDqKD+zsgE8bK5I/AUJXqUu9rF0nsl/vqY/gl1L4nm+wzuAAA="
+      },
+      {
+        "name": "screenshot-20250420-181206",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-181206",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwAwCdASoQACQAPt1apE2opSOiNUgBEBuJYwDO7Dzh/Wa6eAAA/vDi+APrfOxG3BlXCC8IGxxeU/nt17Wkow+H9Q76sPui23APi4Lg+6WpI4YPLRLTcLvDYHaE/Wsq5gAAAA=="
+      },
+      {
+        "name": "screenshot-20250420-181325",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-181325",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoQACQAPt1apE2opSOiNUgBEBuJQAAPRCOVXz1rwCHxMK8AAP7za/rsus/hpUJQKBAZo9j7tARLkSGMSTZF3YbzYxsVbV4FSQydGwTYEidxAx1strPoi6Hm/nDGPAwv4VSJ/6kqDjqWrrCeFQqOoVNbm24pqwgttAAAAA=="
+      },
+      {
+        "name": "screenshot-20250420-181409",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-181409",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoQACQAPt1Yo02opSMiNUgBEBuJYwAAeh9nAvcEZ8aJMAAA/vNryOZiLdxB6oonY9CcpBU8Avk3mCyF+OePxKYJSuPF3CoXWlP3C7w2AhUXkgLbQAA="
+      },
+      {
+        "name": "screenshot-20250420-181507",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-181507",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoQACQAPt1apE2opSOiNUgBEBuJYwAApDpeGMrlx365BvAA/vDiX/Qwpky+uYSzm1lZO5gbYvBbxoaTKDh7PCz+Ks6tLjGIT2ImhHclMpvV2WZ8snwoIQAA"
+      },
+      {
+        "name": "screenshot-20250420-181959",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-181959",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQBACdASoQACQAPu1krE4ppaSiKqwBMB2JaQAAPXWeeyRQSJ9j/eZgNwuwAP7GBXKF37ppISHNBkHMft4d6+SI0DYubTlOS9jre5SBwpFvWkbONU21BMzwAAA="
+      },
+      {
+        "name": "screenshot-20250420-182004",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182004",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQBACdASoQACQAPt1cpE2opSOiNUgBEBuJZQDO7CzZz4scJrpZldcUfR4AAP7gC2DqXaBgYRIyFgm4KbIV54CrIGfrdRAQcVe1d5WO91KWla+YzIBcUcMdbFIgFwwXutdvQUApdIuP+O7nde3cZxPsXUcIIAAA"
+      },
+      {
+        "name": "screenshot-20250420-182024",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182024",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBACdASoQACQAPu1kqE6ppaOiKqwBMB2JZADMHBZoQCc9zeDtgLXR4iSAAP7tjM9qJEpfX1WQsZPL35BlwfSTlsc40IvfWs+lNTz5u5OJyn3YwQVYFfApX0V5iBnsFwpPap+04rGxinm4W3qJKq8P9/bZIY2IAIkSK46JOLRJ3gAA"
+      },
+      {
+        "name": "screenshot-20250420-182047",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182047",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwBACdASoQACQAPu1mqE8ppaOiKqwBMB2JZwDMWBZnPHOk/hcwzy2whPsuQAD8j82vHroendbS3LpMWQ2fVi5FHfS6+d98621qk8ZVZneWxyYnKt+I66xXqZe4qW36PZemaFeC/FTQFsBoFdHMhl2WXMslAAAA"
+      },
+      {
+        "name": "screenshot-20250420-182051",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182051",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoQACQAPt1apE2opSOiNUgBEBuJSvPrHjJuCrkmZQCCPQAA/I/paRbCZ2nuQ9AeGXEgLV0EgjdYVKxETV4b//mSIpQrfaP3OVF9CiLIV1KClMEXYy+D0xkFx38NrS+UavRkRKr6xpo4/tNge/uUemuk6Ly0pjx462CAAA=="
+      },
+      {
+        "name": "screenshot-20250420-182108",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182108",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwBACdASoQACQAPu1eqE2ppSOiNVgIATAdiWMAAD6RfwBY0n6egq1YWC4GoADeZsIJO9k5OjYvUUz5Lrv6O7kWnmxxeQc5bAJ5GU9nLcPcQZe930T+9PXf/ZrwOMAA"
+      },
+      {
+        "name": "screenshot-20250420-182128",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182128",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoQACQAPu1qrVCppaQiqqgBMB2JZQDE2YnChD4qV5XDcX7ycAD+959jzGG5KoseqMn+2GjgFe/i1oT4yV0jp750g2k842WPhlJe2tFu2YAZuZmboD3B5mKKT7l/57y36sxX/xMsxDKYd1+PjwfooARkL+XUrgLehQ8AAA=="
+      },
+      {
+        "name": "screenshot-20250420-182208",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182208",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoQACQAPt1apE2opSOiNUgBEBuJZQAAexActfeT+ONJizhaNAAA/vODJkvgprzXaDSj3c2Kt8fVQQ4ts7w9NQJRpRoiG/woMtBA05Av9x2Fw4bYXkMXFD8UPfxIonDowTG7I94Y3370RS4oAAA="
+      },
+      {
+        "name": "screenshot-20250420-182234",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182234",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBACdASoQACQAPu1qrVCppaQiqqgBMB2JYwDN2uAAPC6yBmaIe3owQAD+78PlRTx2n2cEl6GrzPaQmgdYQimmnm+wqU6AWiQPNND+9uO4vqJYbfMgllylvkGaqA+DfxRJ/PVIYPlQX09ym1ZVZWlafS80r6F9gAA="
+      },
+      {
+        "name": "screenshot-20250420-182408",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182408",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwAwCdASoQACQAPu1qrFCppaQiqqgBMB2JYwDOUuAAPACpKnhtgAD+78PlRU4g5f08c4Ac25NugR6CZ8Y9ZlueKdSMM+k5sJjqF8SIm5UF3GlNYD1L+4ns/B5HootcSdtq8TLa0M2VWVo8u1tRmjt7YAA="
+      },
+      {
+        "name": "screenshot-20250420-182415",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182415",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwBACdASoQACQAPt1Yo02opSMiNUgBEBuJZwDKtCzQsSLZcV2QAPFNsAAA/eOwQmyyfKhe3wcRMVc4RripmW+4N7VCFeqsLx4Q/5dICXp7pr7JFvIiDQy1PZvxa77niEAo9U1fcLHzFjeCApfEsAAA"
+      },
+      {
+        "name": "screenshot-20250420-182435",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182435",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAwCdASoQACQAPt1Yo02opSMiNUgBEBuJZADKACzOP+MuZSgAAP5b+PLdiIXOyJmua/6O2bjoiUjTedrAJ6b/QzV2kckUlHIzi9mUG5XCFCFEiIDtD7FuGIhuLZU658MIc6jAAAA="
+      },
+      {
+        "name": "screenshot-20250420-182440",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-182440",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQBACdASoQACQAPu1ssFGppaSiqqgBMB2JZQBUf40kFBDsMbuIdzO0CRgAAP5b+1nrTif4ubRkEwHRC7hU3uUkBmLxNdWXl4okBKaR5NHb9pyP/xxTSoHElGvvYk84RF4DPF4OZVdpVLcsASfr05rKhwaFTGacXFB9JOAA"
+      },
+      {
+        "name": "screenshot-20250420-183023",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-183023",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAwCdASoQACQAPulgp02pJaOiNVgIASAdCWdpZQAlLhFgCVeAAP7eRa7LkTW/yFCyQ8WwLcDAbxnpgxh0el2o4I3P0AAA"
+      },
+      {
+        "name": "screenshot-20250420-183132",
+        "group": "main",
+        "src": "/images/estimatepro/screenshot-20250420-183132",
+        "width": 720,
+        "height": 1640,
+        "aspect": 0.439,
+        "widths": [
+          640,
+          720
+        ],
+        "formats": [
+          "avif",
+          "webp"
+        ],
+        "device": "phone",
+        "blurDataURL": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABwBACdASoQACQAPu1mqE6ppaOiKqwBMB2JZAC90BXu5JO/W8T78hLVZUihsAD+7di67yxn7ye5XoPxGdj8krswbcppFEi9SjRtbjTtqclOCAHSnQxI1N9xTxfOC8DR261h8EFhxFtwhEYmv6wy0LTQZGqFeS9Xc6IgNdJ98JuVqcs5vGt4gl/baCvWIs0hyUcGROignewAAA=="
+      }
+    ],
+    "ghana-experience": [
+      {
+        "name": "admin1",
+        "group": "admin-workspace",
+        "src": "/images/ghana-experience/admin1",
+        "width": 1679,
+        "height": 927,
+        "aspect": 1.8112,
+        "widths": [
+          640,
+          1280,
+          1679
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAkAA4BaJZQC7AEO/kW5OgAA/vcHW+kLQ/b29I8HofbFl/dNwJRx4jc1pgEGXPAAAA=="
+      },
+      {
+        "name": "admin2",
+        "group": "admin-workspace",
+        "src": "/images/ghana-experience/admin2",
+        "width": 1676,
+        "height": 926,
+        "aspect": 1.8099,
+        "widths": [
+          640,
+          1280,
+          1676
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRigAAABXRUJQVlA4IBwAAAAwAQCdASoQAAkAD8BaJZwAA3AA/vILH8ytcAAA"
+      },
+      {
+        "name": "admin3",
+        "group": "admin-workspace",
+        "src": "/images/ghana-experience/admin3",
+        "width": 1677,
+        "height": 929,
+        "aspect": 1.8052,
+        "widths": [
+          640,
+          1280,
+          1677
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAA4BaJZwAAt43i8AAAP70C7uI5EILqKzdTcJ0/G+pw3nRNUu2zHQIAA=="
+      },
+      {
+        "name": "admin4",
+        "group": "admin-workspace",
+        "src": "/images/ghana-experience/admin4",
+        "width": 1677,
+        "height": 926,
+        "aspect": 1.811,
+        "widths": [
+          640,
+          1280,
+          1677
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRigAAABXRUJQVlA4IBwAAAAwAQCdASoQAAkAD8BaJaQAA3AA/vJPv84NQgAA"
+      },
+      {
+        "name": "landingpage1",
+        "group": "main",
+        "src": "/images/ghana-experience/landingpage1",
+        "width": 1678,
+        "height": 926,
+        "aspect": 1.8121,
+        "widths": [
+          640,
+          1280,
+          1678
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAQCdASoQAAkAA4BaJZQC7ACbogAA/p72nSzKU14RP2pf7f49ThwYRIEqfEbtiQ6BPjN1i9rCC9szLqAAAA=="
+      },
+      {
+        "name": "landingpage2",
+        "group": "main",
+        "src": "/images/ghana-experience/landingpage2",
+        "width": 1679,
+        "height": 926,
+        "aspect": 1.8132,
+        "widths": [
+          640,
+          1280,
+          1679
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAkAA4BaJZQC7AEO+ZpFcgAA/vOVVsng1kW0XrWXBd1PiJXKXJ4z5UeV3MWVZsUwkryNAAA="
+      },
+      {
+        "name": "landingpage3",
+        "group": "main",
+        "src": "/images/ghana-experience/landingpage3",
+        "width": 1677,
+        "height": 803,
+        "aspect": 2.0884,
+        "widths": [
+          640,
+          1280,
+          1677
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAgAA4BaJZQAAu06z30ngAD+9+81OCF0Q9bJ/jym61bwulmAAA=="
+      },
+      {
+        "name": "landingpage4",
+        "group": "main",
+        "src": "/images/ghana-experience/landingpage4",
+        "width": 1661,
+        "height": 917,
+        "aspect": 1.8113,
+        "widths": [
+          640,
+          1280,
+          1661
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAkAA4BaJQBOgCKq35jEAAD+9N62N7aR+qJMgzxuedl7XtL20jMxYPyUoiMUZkJispAA"
+      },
+      {
+        "name": "landingpage5",
+        "group": "main",
+        "src": "/images/ghana-experience/landingpage5",
+        "width": 1677,
+        "height": 736,
+        "aspect": 2.2785,
+        "widths": [
+          640,
+          1280,
+          1677
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoQAAcAA4BaJZQCdAC3yUQLqwAA/vRc/XcK75x6shJUPewrwxCsXmJCR9k2uq0oY3PXL16hirQ4/rsAGKmgeAAA"
+      },
+      {
+        "name": "landingpage6",
+        "group": "main",
+        "src": "/images/ghana-experience/landingpage6",
+        "width": 1678,
+        "height": 746,
+        "aspect": 2.2493,
+        "widths": [
+          640,
+          1280,
+          1678
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAcAA4BaJZQAAn/WghVgQAD+9xFgyuKKN79yblYkzrMIbsel2F7B4tTCCRJTvwQRAAAA"
+      }
+    ],
+    "respira-ai": [
+      {
+        "name": "ai-focus-gradcam",
+        "group": "main",
+        "src": "/images/respira-ai/ai-focus-gradcam",
+        "width": 1655,
+        "height": 930,
+        "aspect": 1.7796,
+        "widths": [
+          640,
+          1280,
+          1655
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoQAAkAA4BaJZwAAli/l4gAAP7yjNrX98hkVoDU/WkAGuoCvJ/GhPaZnLLFpNJYAAA="
+      },
+      {
+        "name": "chest-x-ray-analysis",
+        "group": "main",
+        "src": "/images/respira-ai/chest-x-ray-analysis",
+        "width": 1662,
+        "height": 921,
+        "aspect": 1.8046,
+        "widths": [
+          640,
+          1280,
+          1662
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoQAAkAA4BaJZwAAuQVxj7AAP7yhjue4Gf0nODKApOq2/YrvnpWNuuMtojfoDxeCvYc8V0oO9oQAA=="
+      },
+      {
+        "name": "dashboard",
+        "group": "main",
+        "src": "/images/respira-ai/dashboard",
+        "width": 1902,
+        "height": 925,
+        "aspect": 2.0562,
+        "widths": [
+          640,
+          1280,
+          1902
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAgAA4BaJQBOj+ADBBpB1UUAAP7yg26zTV6qmsOdJ31H4NxbaVAnjRep8uvQKaICPamCiAAAAA=="
+      },
+      {
+        "name": "landing-page",
+        "group": "main",
+        "src": "/images/respira-ai/landing-page",
+        "width": 1901,
+        "height": 926,
+        "aspect": 2.0529,
+        "widths": [
+          640,
+          1280,
+          1901
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoQAAgAA4BaJQBOj+AQUhWasQB+fgD+Tomj9lxUZWy8GOssrngHAmCQAGsmbEGgSZ5bCIzS3Slvxk8FUm3ueNjqMqcPjAloY8jsR0c5kPAgAA=="
+      },
+      {
+        "name": "normal-results-page",
+        "group": "main",
+        "src": "/images/respira-ai/normal-results-page",
+        "width": 1663,
+        "height": 927,
+        "aspect": 1.794,
+        "widths": [
+          640,
+          1280,
+          1663
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQAAkAA4BaJaQAAup29s4AAP7ws4+z6K2Yxp79wWwWJBniePYxf708P0zLrhFuTeCEHkm+GclCFh2yeN9LLn+rV8gAAA=="
+      },
+      {
+        "name": "notification",
+        "group": "main",
+        "src": "/images/respira-ai/notification",
+        "width": 1677,
+        "height": 927,
+        "aspect": 1.8091,
+        "widths": [
+          640,
+          1280,
+          1677
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAkAA4BaJZwAFgAMp69yWOAA/oiMPm6yiOfi9g+Bzf6XvdlNSF6CX3QHlMdP/asfkCpOj2ZkXIsBI4AAAA=="
+      },
+      {
+        "name": "patients-list",
+        "group": "main",
+        "src": "/images/respira-ai/patients-list",
+        "width": 1918,
+        "height": 927,
+        "aspect": 2.069,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACQAQCdASoQAAgAA4BaJaQAAp1GwkAA/vZaiYcrdgmQV6FHJOTysaAAAAA="
+      },
+      {
+        "name": "register-patients",
+        "group": "main",
+        "src": "/images/respira-ai/register-patients",
+        "width": 1676,
+        "height": 917,
+        "aspect": 1.8277,
+        "widths": [
+          640,
+          1280,
+          1676
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRiwAAABXRUJQVlA4ICAAAAAwAQCdASoQAAkAA4BaJaQAA3AA/vSzXRr0IyFNi4AAAA=="
+      },
+      {
+        "name": "result-not-normal",
+        "group": "main",
+        "src": "/images/respira-ai/result-not-normal",
+        "width": 1657,
+        "height": 925,
+        "aspect": 1.7914,
+        "widths": [
+          640,
+          1280,
+          1657
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoQAAkAA4BaJZwAAudqWygAAP7rxH2r/wfqz7CPNxVYyiBgQ+UO03lnfHMPrYalhkQzuqqzCZfKcP4WdRS34NObuvVAACDrwDbIAAAA"
+      },
+      {
+        "name": "signup",
+        "group": "main",
+        "src": "/images/respira-ai/signup",
+        "width": 1918,
+        "height": 932,
+        "aspect": 2.0579,
+        "widths": [
+          640,
+          1280,
+          1918
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAgAA4BaJagCdAD0J6kGAAD+0O9BH3D0OFwxE1eXxaQ1NN7D8lgj9jTkVy7n0SN05XwA"
+      }
+    ],
+    "carfinder": [
+      {
+        "name": "carfinder1",
+        "group": "main",
+        "src": "/images/carfinder/carfinder1",
+        "width": 434,
+        "height": 220,
+        "aspect": 1.9727,
+        "widths": [
+          434
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoQAAgAA4BaJYwAAuR1lYaJAAD45fxch9JFnqfun+8EXPv4/jEI4nRp6m7orAKjLLKqm/m98cx7jHOi8CwAAA=="
+      },
+      {
+        "name": "carfinder2",
+        "group": "main",
+        "src": "/images/carfinder/carfinder2",
+        "width": 434,
+        "height": 225,
+        "aspect": 1.9289,
+        "widths": [
+          434
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoQAAgAA4BaJaQAAudgXgikAAD+8SPEToc9bJCHlujYU4JT8xAR8jXixYmrFFIAAAA="
+      },
+      {
+        "name": "carfinder3",
+        "group": "main",
+        "src": "/images/carfinder/carfinder3",
+        "width": 448,
+        "height": 233,
+        "aspect": 1.9227,
+        "widths": [
+          448
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAgAA4BaJaQAAubl3DIgAP55P+abF7LU+xi8szPxJdPIeR/liFsNgUsNHddQDRYtm0DUkFSAAAAA"
+      },
+      {
+        "name": "carfinder4",
+        "group": "main",
+        "src": "/images/carfinder/carfinder4",
+        "width": 624,
+        "height": 324,
+        "aspect": 1.9259,
+        "widths": [
+          624
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAQCdASoQAAgAA4BaJaQAAuVutDAA/lv5V9PO+DquBRCfWK4XXGLvZ4J+nKK4rQv2GZxxplxmHLc8XAAAAA=="
+      },
+      {
+        "name": "carfinder5",
+        "group": "main",
+        "src": "/images/carfinder/carfinder5",
+        "width": 624,
+        "height": 324,
+        "aspect": 1.9259,
+        "widths": [
+          624
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACQAQCdASoQAAgAA4BaJaQAAui4iFgA/vddQgJY2cBG0J8n8smeo/aodQAAAA=="
+      },
+      {
+        "name": "carfinder6",
+        "group": "main",
+        "src": "/images/carfinder/carfinder6",
+        "width": 624,
+        "height": 317,
+        "aspect": 1.9685,
+        "widths": [
+          624
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAgAA4BaJZQAAudbneoAAPqf/StzeHYnio3lXKLd4fzYHr1U00jlUSSPYBl3rlhsB7ZrujQFNYkAAAA="
+      },
+      {
+        "name": "carfinder8",
+        "group": "main",
+        "src": "/images/carfinder/carfinder8",
+        "width": 624,
+        "height": 324,
+        "aspect": 1.9259,
+        "widths": [
+          624
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAgAA4BaJaQAAuY9+goAAPyP+aeXSf30tuyHOkK6PirIEhCVUAAA"
+      },
+      {
+        "name": "carfinder9",
+        "group": "main",
+        "src": "/images/carfinder/carfinder9",
+        "width": 442,
+        "height": 230,
+        "aspect": 1.9217,
+        "widths": [
+          442
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQAAgAA4BaJaQAAucPZiLcAAD6n/w6kfS5D2uF7Ey360LQXMG99aD/FOWWA9O7Eqfesc8O5TvsvpDBRCcqRAoAAAA="
+      },
+      {
+        "name": "carfinder10",
+        "group": "main",
+        "src": "/images/carfinder/carfinder10",
+        "width": 442,
+        "height": 229,
+        "aspect": 1.9301,
+        "widths": [
+          442
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQAAgAA4BaJZwAD5AwXdtDTAD+9kavyEhauXHswvl0YPDJq/eJ2tUjtQmqmGt7XCrJvavRsotGk5RVtfN7HbGyIblnGCnkNwAAAA=="
+      },
+      {
+        "name": "carfinder11",
+        "group": "main",
+        "src": "/images/carfinder/carfinder11",
+        "width": 438,
+        "height": 228,
+        "aspect": 1.9211,
+        "widths": [
+          438
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQAAgAA4BaJaQAAubgK0GjgAD8j/mnl0n99LeIaBJLcmwf1w+lR59EwWGTW9WLtpW27n7kTvzegAAA"
+      },
+      {
+        "name": "carfinder12",
+        "group": "main",
+        "src": "/images/carfinder/carfinder12",
+        "width": 495,
+        "height": 257,
+        "aspect": 1.9261,
+        "widths": [
+          495
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRiYAAABXRUJQVlA4IBoAAAAwAQCdASoQAAgAA4BaJaQAA3AA/vTcPgAAAA=="
+      },
+      {
+        "name": "carfinder13",
+        "group": "main",
+        "src": "/images/carfinder/carfinder13",
+        "width": 428,
+        "height": 223,
+        "aspect": 1.9193,
+        "widths": [
+          428
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoQAAgAA4BaJaQAAud12mKL+sAA/I/5p5dJ/eSRWYoyMKR+dJ9kfefX7i8On/Hqo1A8z686RRdSh1U3RHu2uFdCwAAAAA=="
+      },
+      {
+        "name": "carfinder14",
+        "group": "main",
+        "src": "/images/carfinder/carfinder14",
+        "width": 409,
+        "height": 212,
+        "aspect": 1.9292,
+        "widths": [
+          409
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAgAA4BaJaQAAv+q5YHlAAD+9/Et39enCF2AX83KNujRQf+vtO9Go3jirwoaeVoKSAAA"
+      },
+      {
+        "name": "carfinder15",
+        "group": "main",
+        "src": "/images/carfinder/carfinder15",
+        "width": 417,
+        "height": 217,
+        "aspect": 1.9217,
+        "widths": [
+          417
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRioAAABXRUJQVlA4IB4AAAAwAQCdASoQAAgAA4BaJaQAA3AA/vRwdMRpTzMAAAA="
+      },
+      {
+        "name": "carfinder16",
+        "group": "main",
+        "src": "/images/carfinder/carfinder16",
+        "width": 481,
+        "height": 250,
+        "aspect": 1.924,
+        "widths": [
+          481
+        ],
+        "formats": [
+          "avif",
+          "webp",
+          "png"
+        ],
+        "device": "desktop",
+        "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAgAA4BaJaQAAu19xgrpsAD+9+7ou96DmLjOSjVZsqfYBWWT2SAAAAA="
+      }
+    ]
+  },
+  "me": [
+    {
+      "name": "portrait-bw",
+      "group": "me",
+      "src": "/images/me/portrait-bw",
+      "width": 1066,
+      "height": 1600,
+      "aspect": 0.6663,
+      "widths": [
+        640,
+        1066
+      ],
+      "formats": [
+        "avif",
+        "webp"
+      ],
+      "device": "photo",
+      "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JaQAANUD0qJxpUPfRogeAAP7ckchq043FObLZ/zrfkAkAmCG89c+hIQ+R7AodNosdwLWZEIanifQzSIc1fmsbrRLv/3ou48M+U+iYzD+NSyTEcSruvONtUb/RWjy6ZGJAHeAJAHSmr0AA"
+    },
+    {
+      "name": "portrait-cutout",
+      "group": "me",
+      "src": "/images/me/portrait-cutout",
+      "width": 1201,
+      "height": 1135,
+      "aspect": 1.0581,
+      "widths": [
+        640,
+        1201
+      ],
+      "formats": [
+        "avif",
+        "webp",
+        "png"
+      ],
+      "device": "photo",
+      "blurDataURL": "data:image/webp;base64,UklGRhgBAABXRUJQVlA4WAoAAAAQAAAADwAADgAAQUxQSJoAAAABgJpt27Ll/qT97R/AsiuSXBKVDdwTM1A5mAAaC3AQSazg7iR33ve5cFaIiAmQpECjZ0/rTQr1Y6gWw7ObVPBDrBne7J0uRT9EWsCZp++XWMu8G88VhZLCKNIA3nOdVRxJgTJzp5hhS7lAUnnxFgMwXlb6gsQR3vlvOIPW1JN5frVXJtvAfsMx2I/9bXoWx5/mV/+zdoX9xbMBVlA4IFgAAAAwAgCdASoQAA8AA4BaJaQAD4cxeO/uL/+yAAD+6ZClvalm0lKain81VGS0nLWYQ/VED00QmtXC/GSEUTo6SzrCNH25ly+JgVuyzN7W8feiQt5NBtq2UwAA"
+    },
+    {
+      "name": "portrait-square",
+      "group": "me",
+      "src": "/images/me/portrait-square",
+      "width": 1138,
+      "height": 1138,
+      "aspect": 1,
+      "widths": [
+        640,
+        1138
+      ],
+      "formats": [
+        "avif",
+        "webp"
+      ],
+      "device": "photo",
+      "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAA4BaJaQAD49ttmkrlLZgAAD++LppVnnvtj9B7Wiq8rNtVWf13xJ+bpIQ9nbK0NV0sF/rfzVB5WjQc6p/Nyj2c7+c7Rt+qvxTt2nHA/Atx5hwSL6ZBzKzQu004AA="
+    }
+  ],
+  "videos": {
+    "htu-timetabling-suite": [
+      {
+        "name": "timetable-resolver3-walkthrough",
+        "mp4": "/video/htu-timetabling-suite/timetable-resolver3-walkthrough.mp4",
+        "webm": "/video/htu-timetabling-suite/timetable-resolver3-walkthrough.webm",
+        "width": 1920,
+        "height": 932,
+        "duration": 25.5,
+        "poster": {
+          "name": "timetable-resolver3-walkthrough-poster",
+          "group": "video",
+          "src": "/video/htu-timetabling-suite/timetable-resolver3-walkthrough-poster",
+          "width": 1920,
+          "height": 932,
+          "aspect": 2.0601,
+          "widths": [
+            640,
+            1280,
+            1920
+          ],
+          "formats": [
+            "avif",
+            "webp"
+          ],
+          "device": "desktop",
+          "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoQAAgAA4BaJZwAAugwSQRAAP71LG7/VStqku9NwMl8nW0GnAAAAA=="
+        }
+      }
+    ]
+  }
+}

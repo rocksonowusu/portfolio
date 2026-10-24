@@ -1,0 +1,362 @@
+@import "tailwindcss";
+@import "lenis/dist/lenis.css";
+
+/* Paper & Ink tokens. Cool, neutral whites: never cream. */
+:root {
+  --ink: #000000;
+  --paper: #ffffff;
+  --chalk: #f6f7f7;
+  --bone: #eceded;
+  --linen: #e1e3e3;
+  --haze: #cdd0d0;
+  --graphite: #5f6262;
+
+  /* the desk the sheets are stacked on */
+  --desk: var(--haze);
+  --focus: var(--ink);
+
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --ease-paper: cubic-bezier(0.22, 1, 0.36, 1);
+
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-ink: var(--ink);
+  --color-paper: var(--paper);
+  --color-chalk: var(--chalk);
+  --color-bone: var(--bone);
+  --color-linen: var(--linen);
+  --color-haze: var(--haze);
+  --color-graphite: var(--graphite);
+
+  --font-sans: var(--font-archivo), ui-sans-serif, system-ui, sans-serif;
+
+  /* fluid type scale (§3) */
+  --text-display: clamp(3.25rem, 12vw, 12.5rem);
+  --text-display--line-height: 0.88;
+  --text-h1: clamp(2.5rem, 4vw + 1rem, 4rem);
+  --text-h1--line-height: 1;
+  --text-h2: clamp(1.875rem, 2vw + 1rem, 2.5rem);
+  --text-h2--line-height: 1.1;
+  --text-h3: clamp(1.375rem, 0.75vw + 1rem, 1.625rem);
+  --text-h3--line-height: 1.2;
+  --text-body: 1.125rem;
+  --text-body--line-height: 1.6;
+  --text-small: 0.9375rem;
+  --text-small--line-height: 1.5;
+
+  --spacing-gutter: var(--gutter);
+}
+
+html {
+  background: var(--desk);
+}
+
+body {
+  background: var(--desk);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: var(--text-body);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* hairline underline that draws in from the left */
+.link-underline {
+  position: relative;
+}
+.link-underline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.15em;
+  height: 1px;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.5s var(--ease-paper);
+}
+.link-underline:hover::after,
+.link-underline:focus-visible::after,
+.link-underline[aria-current="page"]::after,
+.link-underline[aria-pressed="true"]::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.skip-link {
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 200;
+  padding: 0.75rem 1rem;
+  background: var(--ink);
+  color: var(--paper);
+  --focus: var(--ink);
+  transform: translateY(-200%);
+}
+.skip-link:focus-visible {
+  transform: none;
+}
+
+/* ---------- Sheets (M2) ---------- */
+
+.sheet {
+  position: sticky;
+  top: 0;
+  isolation: isolate;
+  min-height: 100svh;
+  transform-origin: 50% 100%;
+}
+
+/* every sheet after the first lays a soft edge onto the one below */
+.sheet-marker ~ .sheet-marker + .sheet,
+.contact-sheet {
+  box-shadow:
+    0 -1px 0 rgb(0 0 0 / 0.06),
+    0 -28px 56px -28px rgb(0 0 0 / 0.28);
+}
+
+.sheet-shade {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  pointer-events: none;
+  background: var(--ink);
+  opacity: 0;
+}
+
+/* <main> keeps one viewport of runway so the last sheet stays put while the contact sheet slides
+   over it. A spacer, not padding: sticky elements can't travel into their parent's padding. */
+.sheet-stack::after {
+  content: "";
+  display: block;
+  height: 100svh;
+}
+
+.contact-sheet {
+  position: relative;
+  margin-top: -100svh;
+  min-height: 100svh;
+  --focus: var(--paper);
+}
+
+/* ---------- Develop-in images (M3) ---------- */
+
+/* pass a fixed-size mount's height through to its contents */
+.develop-film {
+  height: 100%;
+}
+
+.develop-veil {
+  position: absolute;
+  inset: 0;
+  background: var(--paper);
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* starting state, only when JS will run the develop */
+.js .develop:not(.is-developed) .develop-film {
+  filter: brightness(2) contrast(0.4) blur(8px);
+}
+.js .develop:not(.is-developed) .develop-veil {
+  opacity: 1;
+}
+
+/* project images: greyscale at rest, colour on hover/focus or while centred (touch) */
+.mono img,
+.mono video {
+  filter: grayscale(1);
+  transition: filter 0.8s var(--ease-paper);
+}
+.group:hover .mono img,
+.group:hover .mono video,
+.group:focus-visible .mono img,
+.mono[data-centred] img,
+.mono[data-centred] video {
+  filter: grayscale(0);
+}
+
+/* the width axis as a CSS variable so GSAP can tween it and CSS can transition it */
+@property --wdth {
+  syntax: "<number>";
+  inherits: true;
+  initial-value: 100;
+}
+.wdth {
+  font-stretch: calc(var(--wdth) * 1%);
+}
+/* project titles stretch slightly on hover */
+.stretch-on-hover {
+  transition: --wdth 0.6s var(--ease-paper);
+}
+.group:hover .stretch-on-hover,
+.group:focus-visible .stretch-on-hover {
+  --wdth: 116;
+}
+
+/* ---------- Marquee (M12) ---------- */
+
+.marquee-track {
+  animation: marquee var(--marquee-duration, 60s) linear infinite;
+}
+.marquee:hover .marquee-track {
+  animation-play-state: paused;
+}
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+/* ---------- Preloader (M1) ---------- */
+
+.preloader {
+  display: none;
+}
+.js:not(.intro-seen) .preloader {
+  display: flex;
+  /* failsafe: never block the page if the script fails to run */
+  animation: preloader-failsafe 0s 4s forwards;
+}
+@keyframes preloader-failsafe {
+  to {
+    visibility: hidden;
+  }
+}
+
+/* hero name starts condensed and hidden; the entrance (M4) takes it from here */
+.js .hero-name {
+  --wdth: 62;
+  opacity: 0;
+}
+
+/* ---------- Scroll bar in dots (desktop) ---------- */
+
+/* the dot rail replaces the native bar everywhere (Rockson: never show the native one) */
+html,
+* {
+  scrollbar-width: none;
+}
+html::-webkit-scrollbar,
+*::-webkit-scrollbar {
+  display: none;
+}
+
+
+.rail-dot {
+  opacity: 0.22;
+  transition:
+    opacity 0.35s var(--ease-paper),
+    transform 0.35s var(--ease-paper);
+}
+.rail-dot[data-on] {
+  opacity: 1;
+}
+
+.rail-ring-dot {
+  width: 9px;
+  height: 9px;
+  background: transparent;
+  transition:
+    transform 0.4s var(--ease-paper),
+    background-color 0.3s;
+}
+.rail-ring[data-on] .rail-ring-dot {
+  background: currentColor;
+}
+.rail-ring[data-current] .rail-ring-dot {
+  transform: scale(1.45);
+}
+.rail-ring:hover .rail-ring-dot,
+.rail-ring:focus-visible .rail-ring-dot {
+  transform: scale(1.7);
+}
+
+.rail-label {
+  opacity: 0;
+  transform: translateX(6px);
+  transition:
+    opacity 0.25s,
+    transform 0.35s var(--ease-paper);
+}
+/* the current section always says where you are */
+.rail-ring[data-current] .rail-label {
+  opacity: 0.85;
+  transform: none;
+}
+/* every name shows while the rail is in use: hovered, focused, dragged, or just after a scroll */
+.scroll-rail:hover .rail-label,
+.scroll-rail:focus-within .rail-label,
+.scroll-rail[data-active] .rail-label,
+.scroll-rail [data-dragging] .rail-label {
+  opacity: 1;
+  transform: none;
+}
+
+/* the thumb rides the track; a halo while it's held */
+.rail-thumb {
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 0 0 currentColor;
+  transition: box-shadow 0.3s var(--ease-paper);
+}
+.scroll-rail [data-dragging] .rail-thumb,
+.scroll-rail:hover .rail-thumb {
+  box-shadow: 0 0 0 4px color-mix(in srgb, currentColor 25%, transparent);
+}
+
+/* ---------- Custom cursor (M7) ---------- */
+
+html.has-cursor,
+html.has-cursor * {
+  cursor: none;
+}
+
+html.has-cursor input,
+html.has-cursor textarea,
+html.has-cursor [contenteditable="true"] {
+  cursor: text;
+}
+
+/* ---------- Reduced motion ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .js .develop .develop-film {
+    filter: none !important;
+  }
+  .js .develop .develop-veil {
+    opacity: 0 !important;
+  }
+  .js .hero-name {
+    --wdth: 125;
+    opacity: 1;
+  }
+  .marquee-track {
+    animation: none !important;
+    flex-wrap: wrap;
+  }
+}
