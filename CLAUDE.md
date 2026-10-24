@@ -291,4 +291,11 @@ From `/raw/me/portrait.*` produce:
 | 6     | Performance, accessibility, SEO, OG images                                                       | Quality bar met (show Lighthouse)                |
 | 7     | Git init/push, Vercel deploy, custom domain (TODO: domain name)                                  | Live URL works                                   |
 
+**Status (2026-10-24):** Phases 0–6 done; Phase 7 deployed without a custom domain.
+Repo: https://github.com/rocksonowusu/portfolio (public, `main` auto-deploys on Vercel).
+Live: https://portfolio-rust-kappa-01b85cqge5.vercel.app. When a domain is bought: add it in
+Vercel → Settings → Domains and set `NEXT_PUBLIC_SITE_URL` (canonical, sitemap and share images use it).
+Scripts: `npm run images` (after changing raw/), `npm run portrait`, `npm run og` (after project
+content changes), `npm run cv` (Windows + Word).
+
 **Before writing code in each phase:** state what you'll build in ≤5 bullets. **After:** screenshots + what's left.
