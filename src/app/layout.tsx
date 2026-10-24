@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import localFont from "next/font/local";
 import { ContactSheet } from "@/components/layout/ContactSheet";
 import { Nav } from "@/components/layout/Nav";
@@ -77,6 +78,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <Cursor />
           <PageTransition />
         </SmoothScroll>
+        <Analytics />
       </body>
     </html>
   );
